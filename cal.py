@@ -41,7 +41,7 @@ chemistry = float(input("Please enter Chemistry Marks: "))
 total = english + math + computers + physics + chemistry
 average = total / 5
 percentage = (total / 500) * 100
-
+#total
 print("\nTotal Marks = %.2f"  %total)
 print("Average Marks = %.2f"  %average)
 print("Marks Percentage = %.2f"  %percentage)
