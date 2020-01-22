@@ -43,5 +43,7 @@ average = total / 5
 percentage = (total / 500) * 100
 
 print("\nTotal Marks = %.2f"  %total)
+#averge
 print("Average Marks = %.2f"  %average)
+#percentage
 print("Marks Percentage = %.2f"  %percentage)
